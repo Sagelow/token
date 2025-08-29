@@ -1,1 +1,1 @@
-# token
+# For educational purposes only
